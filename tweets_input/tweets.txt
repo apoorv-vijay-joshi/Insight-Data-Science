@@ -1,0 +1,33 @@
+COVER LETTER
+Date: July 3, 2015
+Insight Data Science Engineering,
+Re: Software Developer/Engineering Full Time Position
+Dear Sir/Madam
+I was excited to see an opening for the position and would like to be invited for an interview so as to prove myself to be a perfect fit for the job profile.
+My background includes a lot of academic as well as extra curriculum projects in various fields. 
+I bring to the table knowledge of hardware as well as software with my under-graduation in Electronics and telecommunication at University of Pune and I am pursuing my graduation in Computer Engineering at NC State University.
+My work experience includes an internship with MIT Media Labs for the position of Engineering Intern at IIT-Bombay, which was sponsored by TATA Center at MIT, USA.
+The main role for the position was the 'Smart ERG System' project we were assigned with, to complete from scratch to the prototype level.
+We analyzed the existing devices in the hospitals and made notes of the faults, which we can overcome with our innovative design and modern techniques.
+We built a cost effective, robust and USB powered ERG system that could give results in real time using our real time diagnosis of patient’s eye defects with our programs in Java and MATLAB.
+The prototype made was portable and gave good results with the provided resources and time constraints.
+Apart from the internship, I have worked with Java for an extensive Android project. The preliminary purpose of the Android application was to establish a Voice Over Internet (VoIP) call using SIP protocols like Apple FaceTime or Google Hangout.
+Apart from the establishment of the link the main purpose of the app was to have a smooth handover from one protocol to another with the users not even noticing based on the signal strengths of the protocols at real time like Wi-Fi to 3G or vice versa.
+We used back end threads to keep a track of the strengths with Android Wi-Fi and Connectivity Manager APIs without breaking the connection between the users.
+The submission of the project was web based index format, which included HTML programming.
+I have worked for many other projects one of which is Emergency Service in IP using Multi-Level AQM where we manipulated the Linux source program to change its default queuing mechanism to our algorithm.
+We marked the emergency packets using the options field in the IP stack and prioritizing them according to the DSCP markings.
+We detect these packets at the routers and instead of probabilistically dropping them they are queued and no matter what unless the queue is full hence providing with the emergency services in a system.
+Another project I was a part of was in my under-graduation where we made a cognitive radio, which could work form 400MHz to 4.4GHz, which is practically a full working spectrum.
+Our system uses the unused frequency and is capable of shifting to another frequency using the dynamic frequency knowledge algorithm, which keeps track of some of the frequencies to hop to without breaking the existing communication link if an authorized user intends to use the frequency.
+We published an international paper at International Journal of Electronics Communication and Computer Engineering based on this project and its findings as well.
+(ISSN (Online): 2249-071X, ISSN (Print): 2278-4209, Volume 5, Issue 5, September 2014)
+I have good algorithm development skills with comfort in programming languages, Java and Python with proficiency in tools like MATLAB and LabVIEW.
+I have done some projects related to parallelism of programs and implementing cache coherence protocols used in cache architectures.
+I am confident of being a perfect match to the profile you are seeking with my skills and knowledge in various fields.
+Feel free to call me at (919) 800-1491 (mobile) to arrange an interview.
+Thank you for your time.
+I look forward to working with you with this opportunity.
+Sincerely,
+Apoorv Joshi
+Enclosure: Resume
