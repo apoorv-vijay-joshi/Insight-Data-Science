@@ -10,10 +10,17 @@ uniqueWords = []          # uniqueWords is a list of integers as number of words
 
 # Open/Create the file 'ft2.txt' in the 'tweets_output' directory to write in to.
 tweetsMedian = open("tweets_output/ft2.txt","w")
-
+wordTweetList = {}        # wordTweetList is a list of words in the tweet.
 for line in my_list:            # Accesses each tweet at a time.
     words = line.split()        # Splits the tweet in separate words.
-    numWords = len(words)
+    for element in words:       # Filling the wordTweetList directory with unique words in each tweet.
+        if element in wordTweetList.keys():
+            wordTweetList[element]+=1
+        else:
+            tempDict={element : 1}
+            wordTweetList.update(tempDict)
+    numWords = len(wordTweetList)   # Number of unique words in the latest tweet.
+    wordTweetList.clear()
     uniqueWords.append(numWords)
     uniqueWords.sort()
     # median is the integer variable to store the latest median value.
@@ -29,6 +36,7 @@ for line in my_list:            # Accesses each tweet at a time.
         else:
             tempDict={element : 1}
             wordDict.update(tempDict)   # if we come across a new word, we add the word to the dictionary with value 1.
+    words.clear()
 # Open/Create the file 'ft1.txt' in the 'tweets_output' directory to write in to.
 tweetsUniqueWordCount = open("tweets_output/ft1.txt", "w")
 for keys,values in wordDict.items():
